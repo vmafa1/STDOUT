@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+#stdout{
+    border-radius: 15px; 
+    cursor: pointer; 
+    width: 150px; 
+    height: 55px; 
+    background-image: linear-gradient(to right, white , #00e587);
+    border: 1px solid lightgreen;
+    position: relative;
+    left: 50%;
+    top: 250px;
+}
+
+p{
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+}
